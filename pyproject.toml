@@ -1,0 +1,19 @@
+[project]
+name = "khabeer-ai"
+version = "1.0.0"
+description = "Khabeer AI Educational Assistant"
+requires-python = ">=3.12"
+dependencies = [
+    "flet>=0.28.0",
+    "httpx>=0.27.0"
+]
+
+[dependency-groups]
+dev = [
+    "flet-cli"
+]
+
+[tool.flet]
+org = "com.khabeerai"
+product = "Khabeer AI"
+company = "Khabeer AI"
