@@ -1,2 +1,0 @@
-# Mosady
-The best place 
